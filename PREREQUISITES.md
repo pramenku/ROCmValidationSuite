@@ -5,7 +5,7 @@ In order to build RVS from source, you need to have several packages on your
 system:
 
 - GCC 5.4.0
-- ROCm 1.8
+- ROCm 3.0
 - CMake 3.5.0
 - libpci-dev
 - Doxygen 1.8.11
@@ -14,7 +14,7 @@ system:
 GCC 5.4.0 or later should already be installed on your system.
 If not, refere to GCC installation instructions.
 
-## ROCm 1.8
+## ROCm 3.0
 Please install following ROCm installation instructions.
 
 ## CMake
